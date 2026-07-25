@@ -1,0 +1,9 @@
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
