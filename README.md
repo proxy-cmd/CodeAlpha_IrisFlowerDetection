@@ -1,5 +1,4 @@
 # 🌸 Iris Flower Species Classification with Machine Learning
-**CodeAlpha Data Science Internship - Task 1**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
@@ -159,4 +158,3 @@ CodeAlpha_IrisFlowerDetection/
 ```
 
 ---
-*Created as part of the CodeAlpha Data Science Internship (Task 1).*
